@@ -1,0 +1,64 @@
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-Light.eot');
+  src: url('Metropolis-Light.eot?#iefix') format('embedded-opentype'),
+    url('Metropolis-Light.woff2') format('woff2'),
+    url('Metropolis-Light.woff') format('woff'),
+    url('Metropolis-Light.ttf') format('truetype'),
+    url('Metropolis-Light.svg#Metropolis-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-Bold.eot');
+  src: url('Metropolis-Bold.eot?#iefix') format('embedded-opentype'),
+    url('Metropolis-Bold.woff2') format('woff2'),
+    url('Metropolis-Bold.woff') format('woff'),
+    url('Metropolis-Bold.ttf') format('truetype'),
+    url('Metropolis-Bold.svg#Metropolis-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-Light_1.eot');
+  src: url('Metropolis-Light_1.eot?#iefix') format('embedded-opentype'),
+    url('Metropolis-Light_1.woff2') format('woff2'),
+    url('Metropolis-Light_1.woff') format('woff'),
+    url('Metropolis-Light_1.ttf') format('truetype'),
+    url('Metropolis-Light_1.svg#Metropolis-Light') format('svg');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Metropolis';
+  src: url('Metropolis-Regular.eot');
+  src: url('Metropolis-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Metropolis-Regular.woff2') format('woff2'),
+    url('Metropolis-Regular.woff') format('woff'),
+    url('Metropolis-Regular.ttf') format('truetype'),
+    url('Metropolis-Regular.svg#Metropolis-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Helvetica';
+  src: url('Helvetica-Regular.eot');
+  src: url('Helvetica-Regular.eot?#iefix') format('embedded-opentype'),
+    url('Helvetica-Regular.woff2') format('woff2'),
+    url('Helvetica-Regular.woff') format('woff'),
+    url('Helvetica-Regular.ttf') format('truetype'),
+    url('Helvetica-Regular.svg#Helvetica-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
