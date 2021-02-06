@@ -1,5 +1,3 @@
-# flycket_landing_web
-
 ## Build Setup
 
 ```bash
