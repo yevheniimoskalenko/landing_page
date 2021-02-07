@@ -1,10 +1,27 @@
 <template>
-  <div>1</div>
+  <div>
+    <app-header />
+    <app-features />
+    <app-item-features />
+    <app-testimonials />
+    <app-footer />
+  </div>
 </template>
 
 <script>
+import appHeader from '~/components/header.vue';
+import appFeatures from '~/components/features.vue';
+import appItemFeatures from '~/components/itemFeatures.vue';
+import appTestimonials from '~/components/testimonials.vue';
+import appFooter from '~/components/footer.vue';
 export default {
-  components: {},
+  components: {
+    appHeader,
+    appFeatures,
+    appItemFeatures,
+    appTestimonials,
+    appFooter,
+  },
   head() {
     return {
       title: '',
