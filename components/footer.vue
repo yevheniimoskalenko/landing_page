@@ -17,7 +17,7 @@
         <el-col :span="6">
           <div class="footer__item">
             <div class="footer__title">
-              <img src="~/assets/Logologo.png" />
+              <img src="~/assets/Logologo.png" alt="logo" />
               <h5>DataWarehouse</h5>
             </div>
             <div class="footer__list">

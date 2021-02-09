@@ -6,7 +6,10 @@
         <el-carousel-item v-for="(review, index) in reviews" :key="index">
           <div class="reviews__item">
             <div class="review__photo">
-              <img :src="require(`~/assets/img/${review.photo}.png`)" alt="" />
+              <img
+                :src="require(`~/assets/img/${review.photo}.png`)"
+                :alt="review.name"
+              />
             </div>
             <div class="review__info">
               <h4>{{ review.name }}</h4>

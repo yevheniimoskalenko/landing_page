@@ -24,7 +24,7 @@ export default {
   },
   head() {
     return {
-      title: '',
+      title: 'Save your data storage here',
       meta: [
         // hid is used as unique identifier. Do not use `vmid` for it as it will not work
         {
